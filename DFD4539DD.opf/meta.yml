@@ -1,0 +1,22 @@
+id: DFD4539DD
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-03-23T11:08:58+00:00'
+last_modified: '2022-05-30T06:58:05.058882+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    dc61:
+      image_group_id: I1PD95891
+      title: བསྡུས་པའི་རིམ་པའི་བསྒྲུབ་ཐབས།
+      total_pages: 1201
+      order: 46
+      base_file: dc61.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
